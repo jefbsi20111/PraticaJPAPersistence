@@ -1,0 +1,7 @@
+contextsDir=\\conf\\Catalina\\localhost
+eclipse.preferences.version=1
+managerUrl=http\://localhost\:8080/manager
+projectsInSourcePath=Projeto;questions;
+tomcatConfigFile=\\conf\\server.xml
+tomcatJRE=1434480841997
+tomcatVersion=tomcatV3

@@ -1,0 +1,14 @@
+sysQuestions\src\main\java\br\ufrn\ceres\bsi\pweb\dao\QuestaoService.class
+sysQuestions\src\main\java\br\ufrn\ceres\bsi\pweb\model\BaseEntity.class
+sysQuestions\src\main\java\br\ufrn\ceres\bsi\pweb\model\Usuario.class
+sysQuestions\src\main\java\br\ufrn\ceres\bsi\pweb\bean\QuestaoBean.class
+sysQuestions\src\main\java\br\ufrn\ceres\bsi\pweb\model\Alternativa.class
+sysQuestions\src\main\java\br\ufrn\ceres\bsi\pweb\model\Endereco.class
+sysQuestions\src\main\java\br\ufrn\ceres\bsi\pweb\dao\exceptions\PreexistingEntityException.class
+sysQuestions\src\main\java\br\ufrn\ceres\bsi\pweb\bean\UsuarioBean.class
+sysQuestions\src\main\java\br\ufrn\ceres\bsi\pweb\model\Questao.class
+sysQuestions\src\main\java\br\ufrn\ceres\bsi\pweb\dao\util\JPAUtil.class
+sysQuestions\src\main\java\br\ufrn\ceres\bsi\pweb\dao\UserService.class
+sysQuestions\src\main\java\br\ufrn\ceres\bsi\pweb\dao\exceptions\IllegalOrphanException.class
+sysQuestions\src\main\java\br\ufrn\ceres\bsi\pweb\dao\exceptions\NonexistentEntityException.class
+sysQuestions\src\main\java\br\ufrn\ceres\bsi\pweb\dao\DataAccessService.class
